@@ -48,7 +48,7 @@
     display: block;
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
     .title {
         text-align: left;
         font-size: 70px;
@@ -59,7 +59,7 @@
         display: block;
         height: 250px;
         width: 250px;
-        /* margin-left: ; */
+        
         margin-left: 10px;
     }
     
@@ -73,7 +73,7 @@
         margin-left: 30px;
         height: 40px;
         font-size: 30px;
-        /* width: 30px; */
+
     }
 
     .btn2 {
@@ -82,7 +82,6 @@
         border: 1px solid black;
         padding: 10px;
         background-color: grey;
-        /* margin-top: 30px; */
         margin-left: 50px;
         height: 40px;
         font-size: 30px;
@@ -103,5 +102,5 @@
         height: auto;
         width: auto;
     }
-}
+} */
 
