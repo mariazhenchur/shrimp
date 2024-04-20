@@ -48,7 +48,7 @@
     display: block;
 }
 
-@media (min-width: 320px) {
+@media (max-width: 768px) {
     .title {
         text-align: left;
         font-size: 70px;
